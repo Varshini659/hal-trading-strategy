@@ -26,6 +26,9 @@ the resulting signal against a buy-and-hold benchmark over a held-out
 **ML strategy outperformed buy-and-hold by 8.8× on total returns
 and delivered 3.8× better risk-adjusted performance (Sharpe Ratio).**
 
+<img width="1190" height="490" alt="ML Strategy vs Buy   Hold HAL NS (Test Period)" src="https://github.com/user-attachments/assets/eb0582fd-86bb-453d-bf0c-a30a264b2b63" />
+
+
 ---
 
 ## Key Findings
